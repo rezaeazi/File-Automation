@@ -1,0 +1,10 @@
+venv/
+.file-automation
+__pycache__/
+*.pyc
+*.pyo
+*~$
+.vscode/
+.DS_Store
+dist/
+build/
